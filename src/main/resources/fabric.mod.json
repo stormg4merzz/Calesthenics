@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "calisthenics",
+  "version": "${version}",
+  "name": "Calisthenics",
+  "description": "Calisthenics emotes (handstand, planche, elbow lever, maltese, push-ups, handstand push-ups, backflip, flip) that you and everyone nearby can see.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.calisthenics.Calisthenics"],
+    "client": ["dev.calisthenics.client.CalisthenicsClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

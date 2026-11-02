@@ -1,0 +1,17 @@
+{
+  "key.category.calisthenics.main": "Calisthenics",
+  "key.calisthenics.menu": "Open emote menu",
+  "key.calisthenics.stop": "Stop emote",
+  "screen.calisthenics.title": "Calisthenics Emotes",
+  "screen.calisthenics.hint": "Click an emote or press 1-8. Click your head to stop.",
+  "skill.calisthenics.handstand": "Handstand",
+  "skill.calisthenics.planche": "Planche",
+  "skill.calisthenics.elbow_lever": "Elbow Lever",
+  "skill.calisthenics.maltese": "Maltese",
+  "skill.calisthenics.pushup": "Push-up",
+  "skill.calisthenics.handstand_pushup": "Handstand Push-ups",
+  "skill.calisthenics.backflip": "Backflip",
+  "skill.calisthenics.flip": "Flip",
+  "skill.calisthenics.stop": "Stop",
+  "message.calisthenics.no_server": "This server does not have the Calisthenics mod, so others can't see you."
+}
